@@ -8,6 +8,6 @@
   
   let tst = document.getElementById('test')
  
- tst.style.backgroundColor = 'green'
+// tst.style.backgroundColor = 'green'
  
 })()
